@@ -1,10 +1,11 @@
 import Vapor
+import Foundation
 
 let app = Application()
 
 app.get("/") { request in
-    return Json(["answer": 42])
+    return try app.view("index.html")
 }
 
-print("Visit http://localhost:8080")
-app.start(port: 8080)
+print("Visit http://localhost:8000")
+app.start(ip: "127.0.0.1", port: 8000)
