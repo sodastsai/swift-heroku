@@ -1,5 +1,4 @@
 import Vapor
-import Foundation
 
 let app = Application()
 

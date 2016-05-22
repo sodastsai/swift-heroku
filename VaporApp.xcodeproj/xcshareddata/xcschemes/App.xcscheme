@@ -63,7 +63,7 @@
       </BuildableProductRunnable>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "--workdir=$(SRCROOT)"
+            argument = "--workDir=$(SRCROOT)"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
