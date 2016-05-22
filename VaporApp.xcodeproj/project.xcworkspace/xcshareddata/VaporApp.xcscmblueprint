@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1E72C4C11736864B9AA36A7CE5A7583666A1B027" : 0,
+    "10A2CB6C4392F0E306FF8D509BE5E88232276EA4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8E7E8AE5-47A8-44A7-BA56-F78F404F8DE8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1E72C4C11736864B9AA36A7CE5A7583666A1B027" : "swift-heroku-test\/Packages\/SHA2-0.7.0\/",
+    "10A2CB6C4392F0E306FF8D509BE5E88232276EA4" : "swift-heroku-test\/Packages\/String-0.7.1\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VaporApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "VaporApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/String.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "10A2CB6C4392F0E306FF8D509BE5E88232276EA4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CryptoKitten\/SHA2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1E72C4C11736864B9AA36A7CE5A7583666A1B027"
+    }
+  ]
+}
