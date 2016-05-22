@@ -1,0 +1,6 @@
+included:
+  - App
+excluded:
+  - Packages/
+
+line_length: 120
