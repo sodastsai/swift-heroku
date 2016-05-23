@@ -66,6 +66,10 @@
             argument = "--workDir=$(SRCROOT)"
             isEnabled = "YES">
          </CommandLineArgument>
+         <CommandLineArgument
+            argument = "--port=8080"
+            isEnabled = "NO">
+         </CommandLineArgument>
       </CommandLineArguments>
       <AdditionalOptions>
       </AdditionalOptions>
