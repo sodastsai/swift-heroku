@@ -1,0 +1,10 @@
+{
+  "name": "sodas-swift-test",
+  "description": "This app demos how to run Swift on Heroku (with vapor).",
+  "repository": "https://github.com/sodastsai/swift-heroku",
+  "buildpacks": [
+    {
+      "url": "https://github.com/kylef/heroku-buildpack-swift"
+    }
+  ]
+}
